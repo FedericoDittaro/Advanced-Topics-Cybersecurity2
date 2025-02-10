@@ -1,4 +1,4 @@
-This course is a VC that is assessed via coursework (aka mini projects) and student participation at the Alpen-Adria-Universität Klagenfurt. The repository is organized as follows:
+This course is a VC that is assessed via coursework (aka mini projects) and student participation at the Alpen-Adria-University of Klagenfurt. The repository is organized as follows:
 
 ## Making AES
 This lab gives the chance to “play a bit” with AES encryption rounds and the respective functions.
